@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "D:/Desktop/Ex_C#"
+		},
+		{
+			"path": "D:/Desktop/Ex_py"
+		},
+		{
+			"name": "BTL_DKTM_HAVY",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ex_py"
+	}
+}
